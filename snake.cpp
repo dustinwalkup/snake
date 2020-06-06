@@ -3,7 +3,7 @@
 /*
 TODO LIST
 
--make a menu -  
+-make a menu 
 -toplist 
 -colors
 
